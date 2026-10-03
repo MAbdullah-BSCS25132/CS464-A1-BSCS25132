@@ -2,37 +2,35 @@
 # CS464 Assignment 01 · Muhammad Abdullah · BSCS-25132
 
 ## Game 1 · Color Adventure
-- **App Store link:** https://apps.apple.com/pk/app/colour-adventure-draw-and-go/id1495787932
-- **I played:** About 45 minutes plus and at level 37.
-- **Video Link :** https://drive.google.com/file/d/1fyrIs7F9LTCbOWZORWv5gb5XmsN2qeVO/view?usp=sharing
+- **App Store link:** https://apps.apple.com/pk/app/subway-surfers/id512939461
+- **How much I played:** I spent my childhood with this game, so playing it brings back a lot of nostalgia.
+- **Video Link :** 
 
 <p>
 <img src="Docs/game1/1.jpeg" width="240">
 <img src="Docs/game1/2.jpeg" width="240">
 <img src="Docs/game1/3.jpeg" width="240">
-<img src="Docs/game1/4.jpeg" width="240">
 </p>
 
-1. [Pic01] · Showing auto closing/opening obstacle.
-2. [Pic02] · Showing rotating incomplete circle obstacle.
-3. [Pic03] · Showing player touch the obstacle and get turned into pieces. 
-4. [Pic04] · showing straight line obstables when close immediately randomly. 
+1. [Pic01] · Showing player is flying and is collecting the coins.
+2. [Pic02] · Showing guard is chasing player and is runnig on the train.
+3. [Pic03] · Showing guard is about to pick up the player but soon he is gonna pich flying jumper. 
 
 | # | Mechanic | Dynamic | Aesthetic | Bartle type |
 |---|---|---|---|---|
-| M1 | The cube moves while the player holds the screen and stops when the player lets go. | Players press and release again and again in small taps to move the cube slowly and carefully. | Sensation: the cube's moving sound is relaxing, so just moving feels nice. | Achiever |
-| M2 | Some obstacles are rotating circles with a gap in them. The cube must pass through the gap. | Players stop and watch the circle turn, then move only when the gap comes near them. | Challenge: one wrong move breaks the cube, so passing the gap feels like a win. | Achiever |
-| M3 | Black walls close by themselves after some time. | Players either rush through before the wall closes or wait for the next opening. | Challenge: it is a risk, so crossing the walls safely feels good. | Achiever |
-| M4 | Straight obstacles rotate 90 degrees after a fixed time gap. | Players fail a few times, then learn the timing and use it to cross. | Discovery: players find out how the obstacle works by trying it. | Explorer |
-| M5 | When the cube hits any obstacle, it breaks into many tiny pieces and the level restarts. | Players get trolled by the obstacles, laugh or get annoyed, and start the level again quickly. | Challenge: failing is easy, so finishing the level after many tries feels very good. | Achiever |
-| M6 | Every level has a timer shown at the top of the screen. If the time ends, the cube breaks into pieces. | Players watch the timer and hurry, so they take risks instead of waiting safely. | Challenge: the countdown puts pressure on every move. | Achiever |
-| M7 | After finishing some levels, the player can get a new cube design. | Players keep playing to see which new cube design they will get. | Expression: the player gets a new look for their own cube. | Achiever |
+| M1 | The track has 3 lanes. Swipe to change lane, jump or roll. | Players switch lanes fast to miss obstacles. | Challenge: the game gets fast, so I must swipe right. | Achiever |
+| M2 | The first hit makes the runner trip. The second hit ends the run. | Players try hard not to get hit even once. | Challenge: one mistake can end the run, so a long run feels good. | Achiever |
+| M3 | Players collect coins and use them to buy new characters and boards. | Players go to risky lanes to get more coins. | Expression: I use coins to change my runner's look. | Achiever |
+| M4 | A hoverboard saves the runner from one crash. Then it breaks. | Players use it when the track gets hard. | Challenge: one extra chance makes players take more risks. | Achiever |
+| M5 | Power-ups like the jetpack and magnet work for a short time. | Players collect coins fast before the power-up ends. | Sensation: flying with the jetpack feels exciting. | Achiever |
+| M6 | Missions give rewards and raise the score multiplier. | Players play in a new way to finish a mission. | Challenge: small goals make me play one more run. | Achiever |
+| M7 | The game shows friends' best scores. | Players play again to beat a friend's score. | Fellowship: I compete with my friends. | Killer |
 
-**Aesthetic profile:** Challenge is the biggest one (M2, M3, M5, M6). The game has many obstacles that break the cube, so finishing a level feels good. Sensation is second (M1), because the sound of the moving cube is relaxing and it makes me want to keep playing. Discovery also helps (M4), because I learn how each obstacle works by trying again and again.
+**Aesthetic profile:** Challenge is the biggest one (M1, M2, M4, M6). The game is fast and one mistake ends the run. Expression is second (M3), because coins buy new looks. Sensation also helps (M5), because power-ups feel exciting.
 
 **Player types**
-- Primary: Achiever (acting × world), because the goal is to finish every level and beat every obstacle (M2, M3, M5, M6). I am acting on the game, not on other players. New cube designs are a reward for finishing levels (M7).
-- Secondary: Explorer (interacting × world), because I watch how the rotating obstacles and walls move before I pass them (M4). I am interacting with the game's system, not with other players.
+- Primary: Achiever (acting × world), because I want to run far, get coins and finish missions (M1, M2, M3, M6). I act on the game, not on other players.
+- Secondary: Killer (acting × players), because I try to beat my friends' scores (M7).
 
 ## Level blockouts
 | Level | Screenshot | Its idea |
