@@ -35,9 +35,9 @@
 ## Level blockouts
 | Level | Screenshot | Its idea |
 |---|---|---|
-| Level01 | <img src="Docs/game1/level01.png" width="320"> | Its idea is from the color adventure game but i make it as a straight map where obstacle moving auto if script added cause the player to die when hitted.|
-| Level02 | <img src="Docs/game1/level02.png" width="320"> | Its idea is from the color adventure game but i make it as a straight map where obstacle like walls and busses moving auto if script added cause the player to die when hitted.|
-| Level03 | <img src="Docs/game1/level03.png" width="320"> | Its idea is from the color adventure game but i make it as a straight map where obstacle like walls and busses moving auto if script added cause the player to die when hitted.|
+| Level01 | <img src="Docs/game1/level01.png" width="320"> | Its idea is from the subway surfers game where only basic obstacles added which cause the player to die when hitted.|
+| Level02 | <img src="Docs/game1/level02.png" width="320"> | Its idea is from the subway surfers game whete i also added busses which moves auto if script added cause the player to die when hitted.|
+| Level03 | <img src="Docs/game1/level03.png" width="320"> | It combination of both level 01 and level 02 where player has to complete long level and maybe i'll add come auto movement up down functionality to wall with script so player feels hurdle. |
 
 ## Game 2 · Rolling Ball 3D
 - **App Store link:** https://apps.apple.com/pk/app/rolling-sky-gyrosphere-game/id6741021412
